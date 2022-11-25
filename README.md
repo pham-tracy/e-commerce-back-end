@@ -49,7 +49,7 @@ Proceed with connecting to the server by running:
 
 Connect to the server using an API testing platform such as Insomnia.
 
-Video demo on how to use this application can be viewed here:
+Video demo on how to use this application can be viewed here: https://drive.google.com/file/d/1z6ulTI9Kx8e5S9Its6snHG0jzbL3hFOP/view
 
 ### Screenshots
 
